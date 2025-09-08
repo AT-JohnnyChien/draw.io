@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.2.0">
+  <diagram name="Page-1" id="85_S-bxJkXgf449nbUud">
+    <mxGraphModel dx="1418" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="11DnU_3tIo83NWZGjzpc-1" value="Silverdale (SD1)" style="whiteSpace=wrap;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="11DnU_3tIo83NWZGjzpc-2" value="Hobsonville (HV1)" style="whiteSpace=wrap;html=1;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="11DnU_3tIo83NWZGjzpc-10" value="Argo CD" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://layer5.io/static/23bd800be4880360f484c8e4a73f06d5/argo-cd-color.svg;" vertex="1" parent="1">
+          <mxGeometry x="152.7" y="440" width="54.6" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="11DnU_3tIo83NWZGjzpc-11" value="Argo CD" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://layer5.io/static/23bd800be4880360f484c8e4a73f06d5/argo-cd-color.svg;" vertex="1" parent="1">
+          <mxGeometry x="472.7" y="440" width="54.6" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
